@@ -226,7 +226,7 @@ useEffect(() => {
       <Row>
           <Col>
               <h2 className="text-center fw-bold my-4">View Patient</h2>
-              <Table striped bordered hover variant="light">
+              <Table striped bordered hover variant="dark">
                   <thead>
                       <tr>
                           <th>#</th>
